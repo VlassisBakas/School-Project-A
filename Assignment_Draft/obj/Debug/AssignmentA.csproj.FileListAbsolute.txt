@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Assignment_Draft\Assignment_Draft\bin\Debug\Assignment_Draft.exe.config
+C:\Users\Acer\source\repos\Assignment_Draft\Assignment_Draft\bin\Debug\Assignment_Draft.exe
+C:\Users\Acer\source\repos\Assignment_Draft\Assignment_Draft\bin\Debug\Assignment_Draft.pdb
+C:\Users\Acer\source\repos\Assignment_Draft\Assignment_Draft\obj\Debug\AssignmentA.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Assignment_Draft\Assignment_Draft\obj\Debug\AssignmentA.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Assignment_Draft\Assignment_Draft\obj\Debug\Assignment_Draft.exe
+C:\Users\Acer\source\repos\Assignment_Draft\Assignment_Draft\obj\Debug\Assignment_Draft.pdb
+C:\Users\Acer\Desktop\Assignment_Draft\Assignment_Draft\bin\Debug\Assignment_Draft.exe.config
+C:\Users\Acer\Desktop\Assignment_Draft\Assignment_Draft\bin\Debug\Assignment_Draft.exe
+C:\Users\Acer\Desktop\Assignment_Draft\Assignment_Draft\bin\Debug\Assignment_Draft.pdb
+C:\Users\Acer\Desktop\Assignment_Draft\Assignment_Draft\obj\Debug\AssignmentA.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Assignment_Draft\Assignment_Draft\obj\Debug\AssignmentA.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Assignment_Draft\Assignment_Draft\obj\Debug\Assignment_Draft.exe
+C:\Users\Acer\Desktop\Assignment_Draft\Assignment_Draft\obj\Debug\Assignment_Draft.pdb
